@@ -1,5 +1,5 @@
 setfont iso01-12x22.psfu.gz or setfont ter-132b
-
+iwctl --passphrase "password" station wlan0 connect networkname
 # Setup Guide
 
 ## WiFi
